@@ -32,7 +32,7 @@ $ git pull
 Well, most of the lines.
 You'll see what I mean.
 
-. This wlil give us the opportunity to work through the merge conflicts during the workshop and hopefully end up with a much nicer repository whuch makes more sesne and doesn't look quite as unprofessional.
+. This will give us the opportunity to work through the merge conflicts during the workshop and hopefully end up with a much nicer repository whuch makes more sesne and doesn't look quite as unprofessional.
 
 NOTE: This repository will probably still look kind of unprofessional.
 
