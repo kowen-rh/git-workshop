@@ -15,7 +15,7 @@ NOTE: Kevin might be late to this workshop. In that case, enjoy the lessons cont
 == Creating and handling merge conflicts
 
 * We're going to create merge conflicts in this repository during the workshop.
-This is intended, and is aprt of why there are numerous typos and a decent array of self-referential metahumor.
+This is intended, and is part of why there are numerous typos and a decent array of self-referential metahumor.
 
 To create some conflicts:
 
