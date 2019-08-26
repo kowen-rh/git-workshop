@@ -10,11 +10,6 @@ toc::[]
 
 This is a sample repository to demonstrate Git and handling of merge conflicts.
 
-[NOTE]
-====
-Kevin might be late to this workshop. In that case, enjoy the lessons contained in this sample repository about how to write words good.
-====
-
 == Creating and handling merge conflicts
 
 * We're going to create merge conflicts in this repository during the workshop.
