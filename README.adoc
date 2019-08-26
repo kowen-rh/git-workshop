@@ -1,4 +1,4 @@
-= Git Workshop
+= Git workshop
 :icons:
 :toc: macro
 :toc-title:
@@ -8,12 +8,14 @@ toc::[]
 
 == Introduction
 
-This is a sample repository to demonstrate Git and handling of merge conflicts.
+This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make tyops.
+
+NOTE: Kevin might be late to this workshop. In that case, enjoy the lessons contained in this sample repository about how to write words good.
 
 == Creating and handling merge conflicts
 
 * We're going to create merge conflicts in this repository during the workshop.
-This is intended, and is part of why there are numerous typos.
+This is intended, and is aprt of why there are numerous typos and a decent array of self-referential metahumor.
 
 To create some conflicts:
 
@@ -26,9 +28,13 @@ Once everyone has made some kind of change and committed it, we'll update this f
 $ git pull
 ----
 
-. You should encounter merge conflicts because I'll  change almost every line of this file in some way or another.
+. You should encounter merge conflicts because I'll probably change every line of this file in some way or another.
+Well, most of the lines.
+You'll see what I mean.
 
-. This will give us the opportunity to work through the merge conflicts during the workshop and hopefully end up with a much nicer repository.
+. This wlil give us the opportunity to work through the merge conflicts during the workshop and hopefully end up with a much nicer repository whuch makes more sesne and doesn't look quite as unprofessional.
+
+NOTE: This repository will probably still look kind of unprofessional.
 
 == References
 
