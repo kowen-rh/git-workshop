@@ -1,4 +1,4 @@
-= Git Workshop for giggles
+= Git Workshop
 :icons:
 :toc: macro
 :toc-title:
