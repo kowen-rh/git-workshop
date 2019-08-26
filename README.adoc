@@ -1,4 +1,4 @@
-= Git Workshop
+= Git Workshop for fun
 :icons:
 :toc: macro
 :toc-title:
