@@ -8,7 +8,7 @@ toc::[]
 
 == Introduction
 
-This is a sample repository to demonstrate Git and handling of merge conflicts.
+This is a simple sample repository to demonstrate Git, handling of merge conflicts, and how to make typos.
 
 [NOTE]
 ====
